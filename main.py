@@ -24,5 +24,4 @@ def main(page:Page):
 
 		)
 
-
 flet.app(target=main,assets_dir="assets")
